@@ -1,0 +1,11 @@
+html,
+body {
+  min-width: 1122px;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #000000 url("img/background.jpg") no-repeat 50% 3px;
+  background-size: 1122px auto;
+}
